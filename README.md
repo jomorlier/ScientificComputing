@@ -1,5 +1,5 @@
 # ScientificComputing
-HA404
+HA404 by Prof. J. Morlier
 
 
 This course is divided into 3 parts: Maths Basics (with Matlab), System Identification (with Matlab), and Python Programming.
