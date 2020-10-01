@@ -11,6 +11,7 @@ This course is largely inspired by [AMATH301](https://courses.washington.edu/am3
 
 ## System Identification 
 Play with livescript in autonomy [For Flexible Aircraft Course]
+Have a look to [Course2](https://github.com/jomorlier/ScientificComputing/blob/master/SystemIdentification/Course2.md)
 
 ## Python Programming
 Begining of november with RP 
