@@ -8,7 +8,7 @@ This course is largely inspired by [AMATH301](https://courses.washington.edu/am3
 
 ## Mathematical Basics (ODE,PDE,FD,...)
 5th of october 2Hours course with JM  [For Advanced Computational Solid Mechanics Course]
-Have a look to [Course2](https://github.com/jomorlier/ScientificComputing/blob/master/SystemIdentification/Course1.md)
+Have a look to [Course1](https://github.com/jomorlier/ScientificComputing/blob/master/SystemIdentification/Course1.md)
 
 
 ## System Identification 
