@@ -8,7 +8,8 @@ This course is largely inspired by [AMATH301](https://courses.washington.edu/am3
 
 ## Mathematical Basics (ODE,PDE,FD,...)
 5th of october 2Hours course with JM  [For Advanced Computational Solid Mechanics Course]
-Play with 2 livescripts and solve 11 classical problems of Scientific Computing
+Have a look to [Course2](https://github.com/jomorlier/ScientificComputing/blob/master/SystemIdentification/Course1.md)
+
 
 ## System Identification 
 Play with livescript in autonomy [For Flexible Aircraft Course]
