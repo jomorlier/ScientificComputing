@@ -12,7 +12,8 @@ Have a look to [Course1](https://github.com/jomorlier/ScientificComputing/blob/m
 
 
 ## System Identification 
-Play with livescript in autonomy [For Flexible Aircraft Course]
+In autonomy during october
+Play with 3 livescripts [For Flexible Aircraft Course]
 Have a look to [Course2](https://github.com/jomorlier/ScientificComputing/blob/master/SystemIdentification/Course2.md)
 
 ## Python Programming
