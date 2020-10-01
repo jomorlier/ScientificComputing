@@ -1,6 +1,8 @@
-# Course 2, " System Identification by J. Morlier
+# Course 2, System Identification
 
-Play with the 3 notebooks or just have a look to the solutions
+Play with the 3 notebooks in autonomy or just have a look to the solutions 
+
+Can email me for any problem
 
 
 11 Excellent Questions (and Answers) on system identification 
