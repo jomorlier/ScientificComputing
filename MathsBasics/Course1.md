@@ -9,7 +9,10 @@ The solution will be displayed after the course (stored in a zip file)
 
 ## an example for all your report in LiveScript
 use latex, add reference and HQ graphix
+
 https://codecogs.com/latex/eqneditor.php
+
 https://detexify.kirelabs.org/classify.html
 
-Complexstep (demo) []
+
+Complexstep (demo) [https://github.com/jomorlier/ScientificComputing/blob/master/MathsBasics/complexstep.html]
