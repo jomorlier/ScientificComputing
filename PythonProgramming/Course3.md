@@ -1,5 +1,10 @@
 # Download the repo
 
+
+## online
+
+we will use google collab
+
 ## at supaero IT Center
 
 Terminal 
