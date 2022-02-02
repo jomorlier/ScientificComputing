@@ -18,3 +18,5 @@ numeric-python-tutorial.ipynb
 2/open 
 Scientific Computing with Python.ipynb
 
+https://exercism.org/tracks/python?criteria=python&page=1
+
