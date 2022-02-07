@@ -18,6 +18,8 @@ https://detexify.kirelabs.org/classify.html
 
 2022, Let's transforming the code in Julia Programming Language:
 
+https://github.com/jomorlier/ScientificComputing/blob/master/MathsBasics/Tutorial2_JULIA.ipynb
+
 https://exercism.org/tracks/julia
 
 https://github.com/clopeau/Julia_Introduction
